@@ -56,6 +56,6 @@ if(!isset($_SESSION["id"])){
      <input type="file" name="fileToUpload" id="fileToUpload">
          <input type="submit" value="Upload Image" name="submit">
  </form>
-
+<a href="insertion.html" >
 </body>
 </html>
